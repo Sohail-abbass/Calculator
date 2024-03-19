@@ -1,2 +1,4 @@
 # Calculator
-A simple caluculator  which perform  arithimatic operation 
+A simple calculator  which perform  arithimatic operation 
+<br>
+technologies used: html,css,js
